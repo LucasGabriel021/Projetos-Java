@@ -1,6 +1,8 @@
 package br.com.bb.screenmatch.modelos;
 
-public class Serie extends Titulo{
+import br.com.bb.screenmatch.calculos.Classificavel;
+
+public class Serie extends Titulo {
     private int temporadas;
     private boolean ativa;
     private int episodiosPorTemporada;
