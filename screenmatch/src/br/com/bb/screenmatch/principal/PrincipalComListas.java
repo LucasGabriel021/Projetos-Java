@@ -17,7 +17,7 @@ public class PrincipalComListas {
         ArrayList<Titulo> lista = new ArrayList<>();
         lista.add(meuFilme);
         lista.add(meuFilme2);
-1        lista.add(minhaSerie);
+        lista.add(minhaSerie);
 
         for (Titulo item: lista) {
             System.out.println(item.getNome());
