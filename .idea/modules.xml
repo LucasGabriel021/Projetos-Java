@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aplicacao_musica/aplicacao_musica.iml" filepath="$PROJECT_DIR$/aplicacao_musica/aplicacao_musica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_compras/app_compras.iml" filepath="$PROJECT_DIR$/app_compras/app_compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula_01/aula_01.iml" filepath="$PROJECT_DIR$/aula_01/aula_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio01/desafio01.iml" filepath="$PROJECT_DIR$/desafio01/desafio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diagramas/diagramas.iml" filepath="$PROJECT_DIR$/diagramas/diagramas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini_banco/mini_banco.iml" filepath="$PROJECT_DIR$/mini_banco/mini_banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pizzaria/pizzaria.iml" filepath="$PROJECT_DIR$/pizzaria/pizzaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" filepath="$PROJECT_DIR$/primeiro_projeto/primeiro_projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetos_java.iml" filepath="$PROJECT_DIR$/.idea/projetos_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/screenmatch/screenmatch.iml" />
+    </modules>
+  </component>
+</project>
